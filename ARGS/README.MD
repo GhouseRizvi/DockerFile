@@ -4,3 +4,6 @@ ARG is used for only image creation where ENV used during image and container cr
 We can use as our first instruction in the docker file its a Execption 
 ARG is the only instruction we can use befrom from
 the arg variable declared before from cannot be accessed after from.
+
+# How to find the arg values in the container
+ # using ENV and ARG for the Best Results
