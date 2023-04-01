@@ -7,3 +7,5 @@ the arg variable declared before from cannot be accessed after from.
 
 # How to find the arg values in the container
  # using ENV and ARG for the Best Results
+* Create an ENV Variable and assign the Arg value to that
+* So we can access the vaues in both image and container.
